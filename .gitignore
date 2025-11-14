@@ -1,0 +1,27 @@
+# Compiled class files
+bin/
+out/
+target/
+*.class
+
+# VS Code workspace
+.vscode/
+.vscode-test/
+
+# Java Language Server cache
+.redhat/
+.project
+.settings/
+.classpath
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+# Backup or temp
+*.tmp
+*.bak
+*.swp
